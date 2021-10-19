@@ -33,6 +33,7 @@ p {
 }
 
 /* Header Classes */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -67,6 +68,7 @@ p {
 }
 
 /* Float Classes */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,6 +80,7 @@ p {
 }
 
 /* Benefit Classes */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,6 +109,7 @@ p {
 }
 
 /* Service Classes */
+
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,7 +128,8 @@ p {
     font-size: 36px;
 }
 
- /*  Footers */
+/*  Footers */
+
 .footer {
     padding: 30px;
     clear: both;
