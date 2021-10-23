@@ -4,4 +4,6 @@
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon-screenshot.png)
 
+***
 
+######[Link to deploy application!](URL "https://kemwalsh.github.io/css-demo-site/")
